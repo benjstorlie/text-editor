@@ -55,6 +55,14 @@ THEN I should have proper build scripts for a webpack application
 
 ## Screenshots
 
+The application opened in the browser.
+
+![Application in browser](/readme-images/JATE-in-browser.png)
+
+The application after installation.  Note that the text was saved.
+
+![Application installed](/readme-images/JATE-PWA-installed.png)
+
 ## Comments
 
 1. I have to say, I don't 100% understand everything here. At this point, I feel like there is a lot of terminology that I can't reliably use.  I'm not sure what parts of the starting application are unique to its functionality, and what would be shared among PWAs. And I started doing React right away, so I'd like to compare and contrast the shared components between this application and React applications.
